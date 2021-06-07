@@ -2,7 +2,7 @@ module github.com/jasmanx11/kin-openapi
 
 go 1.14
 
-replace github.com/getkin/kin-openapi => github.com/jasmanx11/kin-openapi
+replace github.com/getkin/kin-openapi => github.com/jasmanx11/kin-openapi master
 
 require (
 	github.com/ghodss/yaml v1.0.0
